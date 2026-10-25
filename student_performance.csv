@@ -1,0 +1,11 @@
+Student_ID,Name,HTML,CSS,JAVASCRIPT,SQL,PYTHON,Attendance,Total,Average,Grade,Result
+1,Anusha,87,87,89,85,78,92,426,85.2,A,Pass
+2,Sriya,98,98,76,98,70,85,440,88.0,A,Pass
+3,Sujitha,67,67,68,84,88,98,374,74.8,B,Pass
+4,Sandhya,95,74,65,65,34,99,333,66.6,C,Fail
+5,Ramya,87,82,73,88,54,67,384,76.8,B,Pass
+6,Mounika,94,99,94,87,77,83,451,90.2,S,Pass
+7,Hema,69,76,32,94,85,97,356,71.2,B,Fail
+8,Shalini,88,87,98,97,99,55,469,93.8,S,Pass
+9,Jyoshika,72,66,88,66,76,74,368,73.6,B,Pass
+10,pavani,87,58,87,97,45,86,374,74.8,B,Pass
